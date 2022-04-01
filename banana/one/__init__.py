@@ -1,0 +1,2 @@
+def Pong():
+    return "PING"
